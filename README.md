@@ -7,3 +7,4 @@ In my personal opinion, custom themes are the best. The boring default theme, I 
 | ------------ | -------------- | ---------- |
 | **Discord Dark Theme**  | I recreated the Discord Dark Theme and made it into a Chrome and Edge theme. Kinda lame.  | [Download for Chrome](https://mega.nz/#!gwBm2CbD) or [Download for Edge](https://mega.nz/#!tsYUTI5Y) |
 | **AnimeChrome**  | Ever dreamed of an Anime theme for Google Chrome? Well, I made one. applause  | [Download for Chrome](https://mega.nz/#!R5YyxaaD) |
+| **Discord Login Theme Light**  | The login screen from Discord: Light version. | [Download for Chrome](https://mega.nz/#!14I1yQSA) or [Download for Edge](https://mega.nz/#!ohZTgYxI) |
